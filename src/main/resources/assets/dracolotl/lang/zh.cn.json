@@ -1,0 +1,11 @@
+{
+  "advancements.dracolotl_bucket_get.title": "最可爱的顶级掠食者",
+  "advancements.dracolotl_bucket_get.description": "这个容器无法永远困住它。",
+
+  "item.dracolotl.dracolotl_spawn_egg": "龙螈生成蛋",
+  "item.dracolotl.bucket_of_dracolotl": "龙螈桶",
+
+  "entity.dracolotl.dracolotl": "龙螈",
+
+  "jei.dracolotl.dracolotl_info": "要召唤萌萌的龙螈，首先搭建三格高的黑曜石柱，在柱体四个侧面各间隔一格放置黑曜石，并在每块黑曜石上放置一个末地水晶。然后，在柱子顶端放置一颗龙蛋并与之互动。传说中曾有一只被遗忘的红色龙螈，名为‘地狱萌龙’。"
+}
